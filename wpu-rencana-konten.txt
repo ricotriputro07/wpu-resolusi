@@ -6,7 +6,7 @@ RENCANA KONTEN WPU
     > Angular
 - Struktur dasar data
 - PHP Framework 
-    > Laravel
+  * Laravel
 - Interview
 - Vlog
 - Python
